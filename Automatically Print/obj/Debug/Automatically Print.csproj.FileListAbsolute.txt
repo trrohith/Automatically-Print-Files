@@ -1,0 +1,13 @@
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\bin\Debug\Automatically Print.exe.config
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\bin\Debug\Automatically Print.exe
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\bin\Debug\Automatically Print.pdb
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically_Print.Form1.resources
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically_Print.Properties.Resources.resources
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.csproj.GenerateResource.Cache
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.exe
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.pdb
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\bin\Debug\Automatically Print.exe.manifest
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\bin\Debug\Automatically Print.application
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.exe.manifest
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.application
+C:\Users\trroh\Desktop\C# Projects\Automatically Print\Automatically Print\obj\Debug\Automatically Print.csprojResolveAssemblyReference.cache
